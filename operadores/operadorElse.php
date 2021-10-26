@@ -16,3 +16,5 @@ if ($numberOne < 20){
 } else {
     echo 'É maior!';
 }
+
+// operador else: se não atendeu o if faça o else
