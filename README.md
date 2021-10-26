@@ -55,3 +55,9 @@ docker-compose
 ```
 docker-compose up -d nginx mysql phpmyadmin
 ```
+8. Caso dê algum erro pare os outros dockers que estão rodando:
+
+```
+sudo docker stop $(docker ps -a -q)
+```
+9. Caso não resolva renomeei a porta do nginx no arquivo .env
