@@ -14,5 +14,5 @@ echo '<hr>';
 if ($numberOne < 20){
     echo 'É menor!';
 } else {
-    echo 'É maio!';
+    echo 'É maior!';
 }
