@@ -10,6 +10,3 @@ if ($number == $numberTwo) {
 
 // outra forma de apresentar o if
 
-if ($number == $numberTwo && $number ==12): 
-    echo 'É igual 2';
-endif;
