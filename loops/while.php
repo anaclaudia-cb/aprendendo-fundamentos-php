@@ -20,3 +20,5 @@ do{
     echo $a;
     $a++;
 } while ($a <= 10);
+
+// usa quando nao sabe quantos itens tem

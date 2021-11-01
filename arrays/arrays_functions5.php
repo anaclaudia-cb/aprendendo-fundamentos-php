@@ -7,7 +7,8 @@ $ages = [12, 14, 18, 20, 44, 50, 98, 78, 56];
 // echo $ages[count($ages) - 1];
 // echo end($ages);
 
-  // count() = tamanho do array
+  // count() = tamanho do array conta quantos registros tem
+  // count conta do 1 array do 0
   // função end() retorna o ultimo elemento do array
 
 $agesFiltered = array_filter($ages, function ($age) {

@@ -21,3 +21,5 @@ $names = [
 foreach ($names as $key => $name){
     echo "{$key} => {$name} <br>";
 }
+
+// sabe quantos itens tem para usar
